@@ -2,7 +2,6 @@
 - 👀 I’m interested in Backend and DBMS
 - 🌱 I’m currently learning Backend developing
 - 💞 Wishing to get friends who have began thier journey of Coding
-- 📫 How to reach me on Instagram- ayush_mk001
 - ⚡ Fun fact: None
 
 <!---
