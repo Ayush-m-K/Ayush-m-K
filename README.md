@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m @Ayush-m-K<br>👀 I’m interested in Backend and DBMS and Cyber security<br>🌱 I’m currently learning Backend development<br>🤜🤛 Looking to collaborate and learn along with a frontend dev<br>💞 Wishing to make new friends along the coding journey<br>⚡ Fun fact: Hates CSS / Styling
+👋 Hi, I’m **Ayush M K** <br/>  
+👀 Passionate about **Backend Development, Databases, and Cybersecurity** <br/>  
+🌱 Currently learning and building projects with **Express.js, MongoDB, and SQL** <br/>  
+🤝 Open to collaborating with **Frontend Developers** to create full-stack projects <br/>  
+💬 Always excited to connect with fellow developers and share knowledge <br/>  
+⚡ Fun fact: I love solving backend challenges more than styling UI 😅
+
 
 
 ## 🌐 Socials:
